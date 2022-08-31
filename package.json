@@ -1,0 +1,47 @@
+{
+	"name": "@anthane/core-tokens",
+	"version": "1.0.0",
+	"description": "Visual design atoms of the core design system",
+	"publishConfig": {
+		"access": "public",
+		"@anthane:registry": "https://registry.npmjs.org/"
+	},
+	"author": "BlazeIsClone",
+	"license": "GPL-2.0",
+	"main": "dist/cjs/build/index.js",
+	"module": "dist/esm/build/index.mjs",
+	"types": "dist/types/build/index.d.ts",
+	"exports": {
+		".": {
+			"types": "./dist/types/build/index.d.ts",
+			"import": "./dist/esm/build/index.mjs",
+			"require": "./dist/cjs/build/index.js"
+		},
+		"./json/*": "./dist/json/*",
+		"./css/*": "./dist/css/*",
+		"./scss/*": "./dist/scss/*"
+	},
+	"scripts": {
+		"build": "rollup -c",
+		"build:assets": "ts-node --skip-project scripts/index.ts",
+		"build:js": "rollup -c",
+		"build:types": "tsc -b",
+		"build:clean": "rm -rf build",
+		"dev": "rollup -c -w",
+		"test": "jest"
+	},
+	"devDependencies": {
+		"@babel/preset-env": "^7.18.10",
+		"@babel/preset-typescript": "^7.18.6",
+		"@rollup/plugin-babel": "^5.3.1",
+		"@rollup/plugin-commonjs": "^22.0.2",
+		"@rollup/plugin-node-resolve": "^13.3.0",
+		"@typescript-eslint/eslint-plugin": "^5.36.1",
+		"@typescript-eslint/parser": "^5.36.1",
+		"eslint": "^8.23.0",
+		"jest": "^29.0.1"
+	},
+	"files": [
+		"dist"
+	]
+}
