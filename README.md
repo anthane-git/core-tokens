@@ -29,13 +29,13 @@ console.log(metadata.colors.background.description); // 'For use as a background
 
 #### CSS
 
-Importing all of the css variables. CSS variables are prefixed with `--p` to signal that these variables are core variables.
+Importing all of the css variables. CSS variables are prefixed with `--core` to signal that these variables are core variables.
 
 ```js
 import '@anthane/core-tokens/css/styles.css';
 
 div {
-  background: var(--p-background);
+  background: var(--core-background);
 }
 ```
 

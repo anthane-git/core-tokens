@@ -45,18 +45,18 @@ export const shape = {
 		value: '5px',
 	},
 	'border-base': {
-		value: 'var(--p-border-width-1) solid var(--p-border-subdued)',
+		value: 'var(--core-border-width-1) solid var(--core-border-subdued)',
 	},
 	'border-dark': {
-		value: 'var(--p-border-width-1) solid var(--p-border)',
+		value: 'var(--core-border-width-1) solid var(--core-border)',
 	},
 	'border-transparent': {
-		value: 'var(--p-border-width-1) solid transparent',
+		value: 'var(--core-border-width-1) solid transparent',
 	},
 	'border-divider': {
-		value: 'var(--p-border-width-1) solid var(--p-divider)',
+		value: 'var(--core-border-width-1) solid var(--core-divider)',
 	},
 	'border-divider-on-dark': {
-		value: 'var(--p-border-width-1) solid var(--p-divider-dark)',
+		value: 'var(--core-border-width-1) solid var(--core-divider-dark)',
 	},
 };

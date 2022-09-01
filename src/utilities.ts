@@ -96,7 +96,7 @@ export function tokensToRems<T extends Exact<MetadataGroup, T>>(tokenGroup: T) {
 }
 
 export function createVar(token: string) {
-	return `--p-${token}`;
+	return `--core-${token}`;
 }
 
 /**
@@ -113,7 +113,7 @@ export function getKeyframeNames(motionTokenGroup: TokenGroup) {
 /**
  * Allowed Polaris token custom properties.
  *
- * Result: ['--p-background', '--p-text', etc...]
+ * Result: ['--core-background', '--core-text', etc...]
  */
 export function getCustomPropertyNames(tokens: Tokens) {
 	return Object.entries(tokens)

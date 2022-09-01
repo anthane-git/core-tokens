@@ -46,15 +46,15 @@ describe('createVar', () => {
 		const token = 'foo';
 		const result = createVar(token);
 
-		expect(result).toBe(`--p-${token}`);
+		expect(result).toBe(`--core-${token}`);
 	});
 });
 
 describe('getCustomPropertyNames', () => {
 	it('extracts the token names', () => {
 		expect(getCustomPropertyNames(mockTokens)).toStrictEqual([
-			'--p-design-token-1',
-			'--p-design-token-2',
+			'--core-design-token-1',
+			'--core-design-token-2',
 		]);
 	});
 });
@@ -62,8 +62,8 @@ describe('getCustomPropertyNames', () => {
 describe('getKeyframeNames', () => {
 	it('extracts the keyframe tokens from the motion', () => {
 		expect(getKeyframeNames(mockMotionTokenGroup)).toStrictEqual([
-			'p-keyframes-token-1',
-			'p-keyframes-token-2',
+			'core-keyframes-token-1',
+			'core-keyframes-token-2',
 		]);
 	});
 });

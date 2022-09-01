@@ -25,8 +25,8 @@ export function getCustomProperties(tokenGroup: MetadataGroup) {
 	return Object.entries(tokenGroup)
 		.map(([token, { value }]) =>
 			token.startsWith('keyframes')
-				? `--p-${token}:p-${token};`
-				: `--p-${token}:${value};`
+				? `--core-${token}:core-${token};`
+				: `--core-${token}:${value};`
 		)
 		.join('');
 }
@@ -37,7 +37,7 @@ export function getCustomProperties(tokenGroup: MetadataGroup) {
 export function getKeyframes(motion: MetadataGroup) {
 	return Object.entries(motion)
 		.filter(([token]) => token.startsWith('keyframes'))
-		.map(([token, { value }]) => `@keyframes p-${token}${value}`)
+		.map(([token, { value }]) => `@keyframes core-${token}${value}`)
 		.join('');
 }
 

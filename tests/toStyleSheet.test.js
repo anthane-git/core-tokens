@@ -36,13 +36,13 @@ const mockTokens = {
 };
 
 const expectedCustomProperties =
-	'--p-design-token-1:valueA;--p-design-token-2:valueB;';
+	'--core-design-token-1:valueA;--core-design-token-2:valueB;';
 
 const expectedKeyframes =
-	'@keyframes p-keyframes-token-1valueA@keyframes p-keyframes-token-2valueB';
+	'@keyframes core-keyframes-token-1valueA@keyframes core-keyframes-token-2valueB';
 
 const expectedKeyframesCustomProperties =
-	'--p-keyframes-token-1:p-keyframes-token-1;--p-keyframes-token-2:p-keyframes-token-2;';
+	'--core-keyframes-token-1:core-keyframes-token-1;--core-keyframes-token-2:core-keyframes-token-2;';
 
 describe('getCustomProperties', () => {
 	it('creates a string of CSS custom properties', () => {
