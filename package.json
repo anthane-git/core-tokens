@@ -21,12 +21,15 @@
 		"./css/*": "./dist/css/*",
 		"./scss/*": "./dist/scss/*"
 	},
+	"files": [
+		"dist"
+	],
 	"scripts": {
-		"build": "rollup -c",
-		"build:assets": "ts-node --skip-project scripts/index.ts",
-		"build:js": "rollup -c",
+		"prebuild": "./node_modules/rimraf/bin.js dist build",
+		"build": "npm run build:assets && npm run build:types && npm run build:bundle",
 		"build:types": "tsc -b",
-		"build:clean": "rm -rf build",
+		"build:assets": "ts-node --skip-project scripts/index.ts",
+		"build:bundle": "rollup -c",
 		"dev": "rollup -c -w",
 		"test": "jest"
 	},
@@ -39,9 +42,7 @@
 		"@typescript-eslint/eslint-plugin": "^5.36.1",
 		"@typescript-eslint/parser": "^5.36.1",
 		"eslint": "^8.23.0",
-		"jest": "^29.0.1"
-	},
-	"files": [
-		"dist"
-	]
+		"jest": "^29.0.1",
+		"rimraf": "^3.0.2"
+	}
 }
