@@ -1,0 +1,42 @@
+name: Publish NPM Package
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 📭
+        uses: actions/checkout@v3
+
+      - name: Set up Node ⚡
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: '.nvmrc'
+          cache: 'npm'
+
+      - name: Install dependencies 📦
+        run: npm ci
+
+      - name: Run Tests 🧪
+        run: npm test
+
+      - name: Get Package Tag 🏷️
+        run: echo "VERSION=$(node -p "require('./package.json').version")" >> $GITHUB_ENV
+
+      - name: Publish to NPM registry 🚀
+        id: publish
+        uses: JS-DevTools/npm-publish@v1
+        with:
+          token: ${{ secrets.NPM_TOKEN }}
+          tag: echo ${{ env.VERSION }}
+          check-version: true
+      - if: steps.publish.outputs.type != 'none'
+        run: |
+          echo "Version changed: ${{ steps.publish.outputs.old-version }} => ${{ steps.publish.outputs.version }}"
+      - if: steps.publish.outputs.type == 'none'
+        run: |
+          echo "::error:: current package tag already published to registry." && exit 1
