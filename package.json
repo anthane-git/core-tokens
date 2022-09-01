@@ -31,7 +31,8 @@
 		"build:assets": "ts-node --skip-project scripts/index.ts",
 		"build:bundle": "rollup -c",
 		"dev": "rollup -c -w",
-		"test": "jest"
+		"test": "jest",
+		"prepublishOnly": "npm run build"
 	},
 	"devDependencies": {
 		"@babel/preset-env": "^7.18.10",
