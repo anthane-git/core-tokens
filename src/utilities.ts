@@ -102,11 +102,11 @@ export function createVar(token: string) {
 /**
  * Allowed Polaris keyframes.
  *
- * Result: ['p-keyframes-fade-in', 'p-keyframes-spin', etc...]
+ * Result: ['core-keyframes-fade-in', 'core-keyframes-spin', etc...]
  */
 export function getKeyframeNames(motionTokenGroup: TokenGroup) {
 	return Object.keys(motionTokenGroup)
-		.map(token => (token.startsWith('keyframes') ? `p-${token}` : null))
+		.map(token => (token.startsWith('keyframes') ? `core-${token}` : null))
 		.filter(Boolean);
 }
 
@@ -117,7 +117,7 @@ export function getKeyframeNames(motionTokenGroup: TokenGroup) {
  */
 export function getCustomPropertyNames(tokens: Tokens) {
 	return Object.entries(tokens)
-		.map(([_, tokenGroup]: [string, TokenGroup]) =>
+		.map(([, tokenGroup]: [string, TokenGroup]) =>
 			Object.keys(tokenGroup).map(token => createVar(token))
 		)
 		.flat();

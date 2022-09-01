@@ -14,7 +14,7 @@ const sassOutputPath = path.join(sassOutputDir, 'styles.scss');
  */
 export function getStaticCustomProperties(metadata: Metadata) {
 	return Object.entries(metadata)
-		.map(([_, tokenGroup]) => getCustomProperties(tokenGroup))
+		.map(([, tokenGroup]) => getCustomProperties(tokenGroup))
 		.join('');
 }
 
