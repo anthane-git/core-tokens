@@ -1,5 +1,10 @@
 # Anthane Core Tokens
 
+[![NPM](https://badges.aleen42.com/src/npm.svg)](https://www.npmjs.com/)
+[![Node](https://badges.aleen42.com/src/node.svg)](https://nodejs.org/)
+[![Typescript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org/)
+[![Rollup](https://badges.aleen42.com/src/rollup.svg)](https://rollupjs.org/)
+
 Visual design atoms of the Core design system.
 
 ## Installation
