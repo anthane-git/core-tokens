@@ -1,9 +1,9 @@
 # Anthane Core Tokens
 
-[![NPM](https://badges.aleen42.com/src/npm.svg)](https://www.npmjs.com/)
-[![Node](https://badges.aleen42.com/src/node.svg)](https://nodejs.org/)
-[![Typescript](https://badges.aleen42.com/src/typescript.svg)](https://www.typescriptlang.org/)
-[![Rollup](https://badges.aleen42.com/src/rollup.svg)](https://rollupjs.org/)
+[![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
+[![Node](https://img.shields.io/badge/nodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Rollup](https://img.shields.io/badge/Rollup-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org/)
 
 Visual design atoms of the Core design system.
 
