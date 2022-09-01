@@ -1,8 +1,9 @@
 import { readFileSync } from 'fs';
 
-import { babel } from '@rollup/plugin-babel';
 import { nodeResolve } from '@rollup/plugin-node-resolve';
+import { babel } from '@rollup/plugin-babel';
 import commonjs from '@rollup/plugin-commonjs';
+import filesize from 'rollup-plugin-filesize';
 
 const pkg = JSON.parse(
 	readFileSync(new URL('./package.json', import.meta.url).pathname)
@@ -27,16 +28,14 @@ export default {
 		},
 	],
 	plugins: [
-		// Allows node_modules resolution
 		nodeResolve({ extensions }),
-		// Allow bundling cjs modules. Rollup doesn't understand cjs
 		commonjs(),
-		// Compile TypeScript/JavaScript files
 		babel({
 			extensions,
 			include: ['src/**/*', 'build/**/*'],
 			babelHelpers: 'bundled',
 		}),
+		filesize(),
 	],
 	external: [
 		...Object.keys(pkg.dependencies ?? {}),
