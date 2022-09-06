@@ -5,7 +5,7 @@
 [![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Rollup](https://img.shields.io/badge/Rollup-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org/)
 
-Visual design atoms of the Core design system.
+A token management system with the tools and scripts used to translate the tokens for each platform.
 
 ## Installation
 
