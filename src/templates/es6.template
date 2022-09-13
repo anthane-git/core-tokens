@@ -3,8 +3,8 @@
  * Generated on <%= new Date().toUTCString() %>
  */
 
-export declare const tokens: {
+declare module '@anthane/core-tokens' {	
 <% _.each(allProperties, function(property) {
-%>  readonly <%= property.name %>: string;
+%>  export const <%= property.name %>: string;
 <% }); %>
 }
