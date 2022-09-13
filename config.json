@@ -28,7 +28,9 @@
 		},
 		"javascript": {
 			"transformGroup": "js",
+			"prefix": "core",
 			"buildPath": "dist/javascript/",
+			"transforms": ["name/cti/camel"],
 			"files": [
 				{
 					"destination": "index.js",
@@ -38,7 +40,9 @@
 		},
 		"typescript": {
 			"transformGroup": "js",
+			"prefix": "core",
 			"buildPath": "dist/typescript/",
+			"transforms": ["name/cti/camel"],
 			"files": [
 				{
 					"destination": "index.d.ts",

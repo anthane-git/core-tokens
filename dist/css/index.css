@@ -1,0 +1,17 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 13 Sep 2022 17:58:47 GMT
+ */
+
+:root {
+  --core-action-primary-default: rgb(190, 147, 228);
+  --core-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  --core-font-family-code: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  --core-size-text-base: 1rem;
+  --core-size-text-small: 0.75rem;
+  --core-size-text-medium: 1rem;
+  --core-size-text-large: 1.5rem;
+  --core-spacing-small: 10px;
+  --core-spacing-medium: 20px;
+  --core-spacing-large: 30px;
+}
