@@ -5,6 +5,6 @@
 
 export declare const tokens: {
 <% _.each(allProperties, function(property) {
-%>  readonly <%= _.camelCase(property.name) %>: string;
+%>  readonly <%= property.name %>: string;
 <% }); %>
 }
