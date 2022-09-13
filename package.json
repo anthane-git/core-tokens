@@ -1,6 +1,6 @@
 {
 	"name": "@anthane/core-tokens",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Visual design atoms of the core design system",
 	"publishConfig": {
 		"access": "public",
@@ -14,6 +14,14 @@
 	"files": [
 		"dist"
 	],
+	"exports": {
+		".": {
+			"types": "./dist/typescript/index.d.ts",
+			"import": "./dist/javascript/index.js"
+		},
+		"./css/*": "./dist/css/*",
+		"./scss/*": "./dist/scss/*"
+	},
 	"scripts": {
 		"prepublishOnly": "npm run build",
 		"test": "node ./tests/index.test.js",

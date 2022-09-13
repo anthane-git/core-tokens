@@ -3,8 +3,8 @@
  * Generated on <%= new Date().toUTCString() %>
  */
 
-declare module 'design-tokens' {
+export declare const tokens: {
 <% _.each(allProperties, function(property) {
-%>  export const <%= property.name %>: string;
+%>  readonly <%= property.name %>: string;
 <% }); %>
 }
