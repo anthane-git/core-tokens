@@ -1,6 +1,6 @@
 {
 	"name": "@anthane/core-tokens",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Visual design atoms of the core design system",
 	"publishConfig": {
 		"access": "public",
