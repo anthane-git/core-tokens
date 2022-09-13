@@ -1,0 +1,21 @@
+{
+  "action-primary-default": {
+    "value": "rgb(190, 147, 228)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "6320652cb471ba114e664067",
+          "name": "Untitled",
+          "platform": "web",
+          "linked_styleguide": {
+            "id": "63206664437002876f8aa6a2"
+          }
+        }
+      },
+      "resource": {
+        "id": "632066910c193114d5a7d1be",
+        "type": "Color"
+      }
+    }
+  }
+}

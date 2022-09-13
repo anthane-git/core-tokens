@@ -1,6 +1,6 @@
 {
 	"name": "@anthane/core-tokens",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Visual design atoms of the core design system",
 	"publishConfig": {
 		"access": "public",
@@ -8,47 +8,21 @@
 	},
 	"author": "BlazeIsClone",
 	"license": "GPL-2.0",
-	"main": "dist/cjs/build/index.js",
-	"module": "dist/esm/build/index.mjs",
-	"types": "dist/types/build/index.d.ts",
-	"exports": {
-		".": {
-			"types": "./dist/types/build/index.d.ts",
-			"import": "./dist/esm/build/index.mjs",
-			"require": "./dist/cjs/build/index.js"
-		},
-		"./json/*": "./dist/json/*",
-		"./css/*": "./dist/css/*",
-		"./scss/*": "./dist/scss/*"
-	},
+	"module": "dist/javascript/index.js",
+	"types": "dist/typescript/index.d.ts",
+	"type": "commonjs",
 	"files": [
 		"dist"
 	],
 	"scripts": {
-		"prebuild": "./node_modules/rimraf/bin.js dist build",
-		"build": "npm run build:assets && npm run build:types && npm run build:bundle",
-		"build:types": "tsc -b",
-		"build:assets": "ts-node --skip-project scripts/index.ts",
-		"build:bundle": "rollup -c",
-		"predev": "npm run build",
-		"dev": "rollup -c --watch",
-		"test": "jest",
-		"prepublishOnly": "npm run build"
+		"prepublishOnly": "npm run build",
+		"test": "node ./tests/index.test.js",
+		"prebuild": "./node_modules/rimraf/bin.js dist",
+		"build": "node ./src/build.js"
 	},
 	"devDependencies": {
-		"@babel/preset-env": "^7.18.10",
-		"@babel/preset-typescript": "^7.18.6",
-		"@rollup/plugin-babel": "^5.3.1",
-		"@rollup/plugin-commonjs": "^22.0.2",
-		"@rollup/plugin-node-resolve": "^13.3.0",
-		"@typescript-eslint/eslint-plugin": "^5.36.1",
-		"@typescript-eslint/parser": "^5.36.1",
-		"eslint": "^8.23.0",
-		"jest": "^29.0.1",
 		"rimraf": "^3.0.2",
-		"rollup": "^2.79.0",
-		"rollup-plugin-filesize": "^9.1.2",
-		"ts-node": "^10.9.1",
-		"typescript": "^4.8.2"
+		"loadash": "^1.0.0",
+		"style-dictionary": "^3.7.1"
 	}
 }

@@ -1,12 +1,12 @@
 version: '3.9'
 
 services:
-  node:
+  style-dictionary:
     image: node
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: ct-node
+    container_name: ct-style-dictionary
     restart: always
     volumes:
       - ./:/app

@@ -1,10 +1,4 @@
-# Dependencies
-node_modules/
-
-# Builds
-dist/
-
-# Cache
+node_modules
+dist
 .DS_Store
-.next
 *.local

@@ -1,11 +1,15 @@
 # Anthane Core Tokens
 
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com/)
+[![Style Dictionary](https://img.shields.io/badge/Style%20Dictionary-1FC5BF?style=for-the-badge&logo=Steemit&logoColor=white)](https://amzn.github.io/style-dictionary/)
 [![Node](https://img.shields.io/badge/nodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Rollup](https://img.shields.io/badge/Rollup-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)](https://rollupjs.org/)
+[![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 
-A token management system with the tools and scripts used to translate the tokens for each platform.
+Core Tokens uses Style Dictionary as the build system that allows us to define styles once, in a way for any platform or language to consume.
+
+## Supports
+
+iOS, Android, CSS, SCSS, Javascript, typescript.
 
 ## Installation
 
