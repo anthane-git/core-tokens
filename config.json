@@ -8,7 +8,7 @@
 			"files": [
 				{
 					"destination": "index.scss",
-					"format": "scss/variables"
+					"format": "schema/scss"
 				}
 			]
 		},
@@ -19,7 +19,7 @@
 			"files": [
 				{
 					"destination": "index.css",
-					"format": "css/variables"
+					"format": "schema/css"
 				}
 			]
 		},

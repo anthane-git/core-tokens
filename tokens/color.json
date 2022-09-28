@@ -1,16 +1,256 @@
 {
-	"action-primary-default": {
-		"value": "rgb(190, 147, 228)",
+	"light-action-on-primary": {
+		"value": "rgb(253, 252, 253)",
 		"metadata": {
 			"source": {
-				"styleguide": {
-					"id": "63206664437002876f8aa6a2",
-					"name": "Untitled",
-					"platform": "base"
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
 				}
 			},
 			"resource": {
-				"id": "6320cb29699afd093f1cc190",
+				"id": "63341b7a6991e7b6a82b7d7c",
+				"type": "Color"
+			}
+		}
+	},
+	"light-interactive-error": {
+		"value": "rgb(233, 61, 130)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341b7bbce746987d677938",
+				"type": "Color"
+			}
+		}
+	},
+	"light-interactive-error-hovered": {
+		"value": "rgb(224, 49, 119)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341b7bdaa88e4eda5fbc83",
+				"type": "Color"
+			}
+		}
+	},
+	"light-interactive-error-depressed": {
+		"value": "rgb(211, 30, 102)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341b7b0ab4c24de414b87b",
+				"type": "Color"
+			}
+		}
+	},
+	"light-interactive-error-disabled": {
+		"value": "rgb(244, 198, 219)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341b7b1ba517b578f2eaba",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-background-default": {
+		"value": "rgb(22, 22, 24)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3a1ba517b578f30b08",
+				"type": "Color"
+			}
+		}
+	},
+	"light-focused-default": {
+		"value": "rgb(5, 162, 194)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341b7b206c7f9af1038d0d",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-background-hovered": {
+		"value": "rgb(35, 35, 38)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3abdc8e94cd6be4a1e",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-background-pressed": {
+		"value": "rgb(40, 40, 44)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3ac0ebd29a8066b063",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-background-selected": {
+		"value": "rgb(40, 40, 44)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3a53fc514d1247e63c",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-surface-pressed": {
+		"value": "rgb(35, 35, 38)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3ada2c5d98979ade0a",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-surface-disabled": {
+		"value": "rgb(22, 22, 24)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3a2cfeceb52f142345",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-surface-depressed": {
+		"value": "rgb(40, 40, 44)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3a6a1574b5a8da9287",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-surface-subdued": {
+		"value": "rgb(28, 28, 31)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3ac2d34bb61a107a9a",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-surface-hovered": {
+		"value": "rgb(28, 28, 31)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3be85eb34e64abc0e9",
+				"type": "Color"
+			}
+		}
+	},
+	"dark-surface-default": {
+		"value": "rgb(22, 22, 24)",
+		"metadata": {
+			"source": {
+				"project": {
+					"id": "63316c25cd5d3b13f58b10c6",
+					"name": "Core Elements",
+					"platform": "web"
+				}
+			},
+			"resource": {
+				"id": "63341d3affa7a04f85a7dc92",
 				"type": "Color"
 			}
 		}

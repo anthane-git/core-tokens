@@ -1,0 +1,16 @@
+/**
+ * Do not edit directly
+ * Generated on <%= new Date().toUTCString() %>
+ */
+
+@media (prefers-color-scheme: light) {
+ <% _.each(allProperties, (prop) => {
+  if(!prop.name.includes('light')) return; %> $<%= prop.name %>:<%= prop.value %>;
+ <% }); %>
+}
+
+@media (prefers-color-scheme: dark) {
+ <% _.each(allProperties, (prop) => {
+  if(!prop.name.includes('dark')) return; %> $<%= prop.name %>:<%= prop.value %>;
+ <% }); %>
+}
