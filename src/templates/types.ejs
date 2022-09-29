@@ -1,0 +1,36 @@
+/**
+* Do not edit directly
+* Generated on <%= new Date().toUTCString() %>
+*/
+
+declare module '@anthane/core-tokens' {
+
+export const colors: {
+ light: {
+ <% _.each(allProperties, (prop) => {
+     if(!prop.name.includes('light')) return %> <%= prop.name.replace('light', '') %>: string,
+ <% }); %> }
+ }
+
+ export const dark: {
+ <% _.each(allProperties, (prop) => {
+    if(!prop.name.includes('dark')) return %> <%= prop.name.replace('dark', '') %>: string,
+ <% }); %> }
+
+ export const spacing: {
+ small: {
+ <% _.each(allProperties, (prop) => {
+     if(!prop.name.includes('spacingSmall')) return %> <%= prop.name.replace('spacingSmall', '') %>: string,
+ <% }); %> },
+
+ medium: {
+ <% _.each(allProperties, (prop) => {
+     if(!prop.name.includes('spacingMedium')) return %> <%= prop.name.replace('spacingMedium', '') %>: string,
+ <% }); %> },
+
+ large: {
+ <% _.each(allProperties, (prop) => {
+     if(!prop.name.includes('spacingLarge')) return %> <%= prop.name.replace('spacingLarge', '') %>: string,
+ <% }); %> }
+ }
+}

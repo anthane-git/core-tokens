@@ -1,0 +1,3218 @@
+{
+  "light-icon-warning": {
+    "value": "rgb(255, 178, 36)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77fe1bbc98423e0682",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-hovered": {
+    "value": "rgb(111, 110, 119)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7736527f4da108d506",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-pressed": {
+    "value": "rgb(26, 21, 35)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b776a1574b5a8da7c78",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-subdued": {
+    "value": "rgb(200, 199, 203)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77ad9f9e992ac3b52a",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-default": {
+    "value": "rgb(134, 132, 141)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77d47d95b6ca2026c6",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-error": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b778d034eb69c17de1c",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-disabled": {
+    "value": "rgb(228, 226, 228)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77ecd1379acf96997e",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-success": {
+    "value": "rgb(112, 225, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77aced92b683a42327",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-information": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b773fc617b6beee8624",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-on-primary": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77d4df38985fcde88a",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-on-interactive": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b775f46c099889e4c0a",
+        "type": "Color"
+      }
+    }
+  },
+  "light-icon-on-critical": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77ffa7a04f85a7cc9e",
+        "type": "Color"
+      }
+    }
+  },
+  "light-background-hovered": {
+    "value": "rgb(241, 243, 245)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b772a50744cc01a3931",
+        "type": "Color"
+      }
+    }
+  },
+  "light-background-default": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77f8075bb66dc72312",
+        "type": "Color"
+      }
+    }
+  },
+  "light-background-pressed": {
+    "value": "rgb(236, 238, 240)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b775b69904f1e897649",
+        "type": "Color"
+      }
+    }
+  },
+  "light-background-selected": {
+    "value": "rgb(236, 238, 240)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b779ddb264e59323430",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-default": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77e6ba3e9a4d743789",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-subdued": {
+    "value": "rgb(249, 248, 249)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77bcc3abb68f5a6e49",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-hovered": {
+    "value": "rgb(249, 248, 249)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77d4df38985fcde88d",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-pressed": {
+    "value": "rgb(241, 243, 245)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77ffa7a04f85a7cca1",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-depressed": {
+    "value": "rgb(236, 238, 240)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77830b0a4f90eae2c4",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-disabled": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77bce746987d677932",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-selected-default": {
+    "value": "rgb(249, 241, 254)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77a2c426b536fea14b",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-selected-hovered": {
+    "value": "rgb(243, 231, 252)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b77b769c1b5f7d94337",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-selected-pressed": {
+    "value": "rgb(227, 204, 244)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78cb52184ca314150a",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-warning-default": {
+    "value": "rgb(255, 227, 162)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b780a72c74e92032a30",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-warning-subdued": {
+    "value": "rgb(255, 236, 188)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78ed34cd98cfc9a546",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-warning-subdued-hovered": {
+    "value": "rgb(255, 242, 226)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78cf252899d66d3174",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-warning-subdued-pressed": {
+    "value": "rgb(255, 211, 134)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7812cd20b653d688ed",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-error-default": {
+    "value": "rgb(249, 216, 231)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78c2d34bb61a106d75",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-error-subdued": {
+    "value": "rgb(254, 239, 246)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78ad5f0a4f420bd5b2",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-error-subdued-hovered": {
+    "value": "rgb(249, 216, 231)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b789eab874def3ac087",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-error-subdued-pressed": {
+    "value": "rgb(237, 173, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b782aa2eab71df8868a",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-success-subdued": {
+    "value": "rgb(225, 251, 244)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78301e89b6d5fdc8c0",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-success-subdued-pressed": {
+    "value": "rgb(125, 212, 192)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78df763d9a365f6435",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-success-subdued-hovered": {
+    "value": "rgb(210, 247, 237)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b787a0bf24cfc8f16af",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-information-default": {
+    "value": "rgb(170, 222, 230)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78d63e4c4d715258b6",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-information-subdued": {
+    "value": "rgb(231, 249, 251)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b783d03d19b9453e5a3",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-information-subdued-hovered": {
+    "value": "rgb(216, 243, 246)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78bce746987d677935",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-information-subdued-pressed": {
+    "value": "rgb(132, 205, 218)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78a8a0d3b73785391c",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-neutral-default": {
+    "value": "rgb(228, 226, 228)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78301e89b6d5fdc8c3",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-neutral-subdued": {
+    "value": "rgb(241, 243, 245)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b78ae93e04c86856891",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-neutral-hovered": {
+    "value": "rgb(220, 219, 221)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7862e8f3b757b65891",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-neutral-pressed": {
+    "value": "rgb(255, 255, 255)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b789ddb264e59323433",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-neutral-disabled": {
+    "value": "rgb(255, 255, 255)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b797c717d4c9841c634",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-subdued": {
+    "value": "rgb(134, 132, 141)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79099524b72a018d1d",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-default": {
+    "value": "rgb(26, 21, 35)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7999bbd199e1e5ad9e",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-disabled": {
+    "value": "rgb(200, 199, 203)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79da2c5d98979ac6b5",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-error": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b793ab9abb62270f879",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-warning": {
+    "value": "rgb(255, 178, 36)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b796991e7b6a82b7d75",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-success": {
+    "value": "rgb(112, 225, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79df763d9a365f6438",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-information": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7975fa6c9a8bb8f2e6",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-on-interactive": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79bcc3abb68f5a6e52",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-on-primary": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b793f71b8b583812f29",
+        "type": "Color"
+      }
+    }
+  },
+  "light-text-on-error": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b790219a2b56d688372",
+        "type": "Color"
+      }
+    }
+  },
+  "light-surface-success-default": {
+    "value": "rgb(165, 228, 212)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79761cb5b77a48d5c8",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-primary-hovered": {
+    "value": "rgb(142, 78, 198)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79de7b024ccbbc19d1",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-primary-pressed": {
+    "value": "rgb(132, 69, 188)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79a3f5a94caa8740bb",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-primary-default": {
+    "value": "rgb(190, 147, 228)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79dae2f79aae71cb30",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-primary-depressed": {
+    "value": "rgb(121, 58, 175)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79f5e43ab5eccad73b",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-primary-disabled": {
+    "value": "rgb(236, 238, 240)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79ad9f9e992ac3b531",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-secondary-default": {
+    "value": "rgb(249, 248, 249)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79dca5a7b762c0ea77",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-secondary-hovered": {
+    "value": "rgb(241, 243, 245)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7999bbd199e1e5ada2",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-secondary-pressed": {
+    "value": "rgb(230, 232, 235)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79aced92b683a4232f",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-secondary-depressed": {
+    "value": "rgb(134, 132, 141)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b79bbe9834c8d08245f",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-secondary-disabled": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a6eabe599b4bdb9bc",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-error-default": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7afb5ad4b65e2c6487",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-error-hovered": {
+    "value": "rgb(224, 49, 119)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a6a1574b5a8da7c80",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-error-pressed": {
+    "value": "rgb(211, 30, 102)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a7c717d4c9841c638",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-error-depressed": {
+    "value": "rgb(61, 13, 29)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7aa245be98a240e81b",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-error-disabled": {
+    "value": "rgb(252, 229, 240)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7ae9ccf04dd9733cbf",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-on-interactive": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a761cb5b77a48d968",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-on-primary": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a6991e7b6a82b7d7c",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-on-secondary": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a7b64814ce6522f62",
+        "type": "Color"
+      }
+    }
+  },
+  "light-action-on-error": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a289423b5ba7b7d15",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-default": {
+    "value": "rgb(134, 132, 141)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a22486498675c8625",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-subdued": {
+    "value": "rgb(200, 199, 203)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a98c080b6b3ed1ca6",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-hovered": {
+    "value": "rgb(134, 132, 141)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a0f826b98f5abc6ce",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-depressed": {
+    "value": "rgb(111, 110, 119)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7abcdf6bb632224f33",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-disabled": {
+    "value": "rgb(200, 199, 203)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7ad63e4c4d715258be",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-error-default": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a7079ac4cf5d251b5",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-error-subdued": {
+    "value": "rgb(249, 216, 231)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a777fc9994444f09d",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-error-disabled": {
+    "value": "rgb(252, 229, 240)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7a65dbd19849c85682",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-success-default": {
+    "value": "rgb(64, 196, 170)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7ac81a054dce625df9",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-success-subdued": {
+    "value": "rgb(192, 239, 227)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7aad7008b5d1990073",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-information-default": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7b6a1574b5a8da7c83",
+        "type": "Color"
+      }
+    }
+  },
+  "light-border-information-subdued": {
+    "value": "rgb(216, 243, 246)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7bad7c5c4d1dbac43b",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-default": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7b9cdefeb55e36e40b",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-hovered": {
+    "value": "rgb(8, 148, 179)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7b99bbd199e1e5ada9",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-depressed": {
+    "value": "rgb(12, 119, 146)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7baced92b683a42334",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-disabled": {
+    "value": "rgb(216, 243, 246)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7b761cb5b77a48d96e",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-error": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7bbce746987d677938",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-error-hovered": {
+    "value": "rgb(224, 49, 119)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7bdaa88e4eda5fbc83",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-error-depressed": {
+    "value": "rgb(211, 30, 102)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7b0ab4c24de414b87b",
+        "type": "Color"
+      }
+    }
+  },
+  "light-interactive-error-disabled": {
+    "value": "rgb(244, 198, 219)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7b1ba517b578f2eaba",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-background-default": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d927b64814ce6524539",
+        "type": "Color"
+      }
+    }
+  },
+  "light-focused-default": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b7b206c7f9af1038d0d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-background-hovered": {
+    "value": "rgb(35, 35, 38)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9229519bb5e1ee5d5a",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-background-pressed": {
+    "value": "rgb(40, 40, 44)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9283b2039b55dc5b80",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-background-selected": {
+    "value": "rgb(40, 40, 44)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d92138f2b4e7164720d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-pressed": {
+    "value": "rgb(35, 35, 38)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d929f7b9698dbc7a76b",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-disabled": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d92e145834d38cfaaf6",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-depressed": {
+    "value": "rgb(40, 40, 44)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d92a8a0d3b7378574d1",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-subdued": {
+    "value": "rgb(28, 28, 31)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9353fc514d1247e752",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-hovered": {
+    "value": "rgb(28, 28, 31)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93dca5a7b762c10571",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-default": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d92761cb5b77a48f08b",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-neutral-subdued": {
+    "value": "rgb(35, 35, 38)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93c4da7eb639b366dc",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-neutral-default": {
+    "value": "rgb(52, 52, 58)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d932c836a4d4f098859",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-neutral-pressed": {
+    "value": "rgb(0, 0, 0)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d933ab9abb6227109af",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-neutral-disabled": {
+    "value": "rgb(0, 0, 0)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93dae2f79aae71e181",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-selected-default": {
+    "value": "rgb(48, 26, 58)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93de7b024ccbbc23f0",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-selected-pressed": {
+    "value": "rgb(78, 38, 103)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93e691f3b54c9d46b4",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-selected-hovered": {
+    "value": "rgb(58, 30, 72)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93f5e43ab5eccae9d8",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-warning-default": {
+    "value": "rgb(74, 41, 0)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d935f77ae995c3066ff",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-warning-subdued": {
+    "value": "rgb(63, 34, 0)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93a27093b6488a23c7",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-warning-subdued-hovered": {
+    "value": "rgb(52, 28, 0)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d938ce4c19b3410940d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-warning-subdued-pressed": {
+    "value": "rgb(87, 51, 0)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93a245be98a241007a",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-error-default": {
+    "value": "rgb(84, 27, 51)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d939f7b9698dbc7a770",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-error-subdued": {
+    "value": "rgb(60, 24, 39)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93446ce14f63f6cd8a",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-error-subdued-hovered": {
+    "value": "rgb(84, 27, 51)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93cb52184ca3142bb5",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-error-subdued-pressed": {
+    "value": "rgb(128, 29, 69)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d930219a2b56d688fec",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-success-default": {
+    "value": "rgb(1, 69, 61)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d940b51d6b6ee9aefa8",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-success-subdued": {
+    "value": "rgb(5, 41, 38)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94a3f5a94caa876055",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-success-subdued-pressed": {
+    "value": "rgb(0, 86, 74)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d948d034eb69c1802c8",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-neutral-hovered": {
+    "value": "rgb(62, 62, 68)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d93ed34cd98cfc9bd91",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-success-subdued-hovered": {
+    "value": "rgb(4, 49, 44)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94d4df38985fce1894",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-information-default": {
+    "value": "rgb(6, 65, 80)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d947b64814ce652453d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-information-subdued": {
+    "value": "rgb(7, 40, 48)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94c0ebd29a8066b697",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-information-subdued-hovered": {
+    "value": "rgb(7, 48, 59)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94e944574d7df1ee4e",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-surface-information-subdued-pressed": {
+    "value": "rgb(4, 80, 99)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94777fc9994445063d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-subdued": {
+    "value": "rgb(112, 111, 120)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94a9ebd04d5b5f6ddc",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-default": {
+    "value": "rgb(237, 237, 239)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94138f2b4e71647210",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-disabled": {
+    "value": "rgb(80, 79, 87)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94289423b5ba7b9f1a",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-error": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94057836988861443d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-warning": {
+    "value": "rgb(255, 178, 36)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94fb5ad4b65e2c7a19",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-success": {
+    "value": "rgb(112, 225, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d947b64814ce6524540",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-information": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d943f6b0d98bfa0b4c8",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-on-interactive": {
+    "value": "rgb(253, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94777fc99944450640",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-on-primary": {
+    "value": "rgb(254, 252, 254)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94fe1bbc98423e24f7",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-text-on-error": {
+    "value": "rgb(255, 252, 253)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94966c524d6677edc0",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-secondary-disabled": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d94c4da7eb639b366e3",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-secondary-hovered": {
+    "value": "rgb(35, 35, 38)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d947a0bf24cfc8f271f",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-secondary-default": {
+    "value": "rgb(28, 28, 31)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95206c7f9af103a02e",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-secondary-depressed": {
+    "value": "rgb(112, 111, 120)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95446ce14f63f6cd8e",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-secondary-pressed": {
+    "value": "rgb(54, 55, 57)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d952aa2eab71df89ae0",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-on-interactive": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9575fa6c9a8bb91230",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-on-primary": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d955f77ae995c306707",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-on-secondary": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95bcc3abb68f5a8650",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-on-error": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d950578369888614440",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-primary-disabled": {
+    "value": "rgb(40, 40, 44)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d953fc617b6beeea382",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-primary-default": {
+    "value": "rgb(121, 56, 178)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95a8a0d3b7378574de",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-primary-hovered": {
+    "value": "rgb(142, 78, 198)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d951d73a19bb9ffde7c",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-primary-pressed": {
+    "value": "rgb(157, 91, 210)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95896efa98728bb9b6",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-primary-depressed": {
+    "value": "rgb(191, 122, 240)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95301e89b6d5fdf459",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-error-default": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95e6ba3e9a4d745ba7",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-error-hovered": {
+    "value": "rgb(240, 79, 136)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9562e8f3b757b67f1a",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-error-pressed": {
+    "value": "rgb(247, 97, 144)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d955b69904f1e89883a",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-error-depressed": {
+    "value": "rgb(84, 27, 51)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d95ad7008b5d19920ad",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-action-error-disabled": {
+    "value": "rgb(72, 26, 45)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d954c7fd14d284a742a",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-disabled": {
+    "value": "rgb(52, 52, 58)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9582240eb60f732436",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-default": {
+    "value": "rgb(112, 111, 120)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9653fc514d1247e75f",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-pressed": {
+    "value": "rgb(237, 237, 239)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96ecd1379acf96acae",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-subdued": {
+    "value": "rgb(80, 79, 87)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d963f71b8b583816167",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-success": {
+    "value": "rgb(112, 225, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96a27093b6488a23d2",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-information": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9662e8f3b757b67f1d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-hovered": {
+    "value": "rgb(160, 159, 166)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d962857ea4cb5a7df2d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-error": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96cf252899d66d3cff",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-warning": {
+    "value": "rgb(255, 178, 36)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96dae2f79aae71e186",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-on-interactive": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96c81a054dce628389",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-on-primary": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9675fa6c9a8bb91234",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-icon-on-critical": {
+    "value": "rgb(22, 22, 24)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96052fe2b6e03f791c",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-default": {
+    "value": "rgb(112, 111, 120)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d963d03d19b9453f796",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-subdued": {
+    "value": "rgb(52, 52, 58)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d961c0e614d447f5c92",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-hovered": {
+    "value": "rgb(126, 125, 134)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d963ab9abb6227109bb",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-disabled": {
+    "value": "rgb(46, 46, 50)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96777fc99944450646",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-depressed": {
+    "value": "rgb(160, 159, 166)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9653fc514d1247e763",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-error-subdued": {
+    "value": "rgb(84, 27, 51)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d96f8075bb66dc73f0d",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-error-default": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d9610030f99a97bf8e0",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-error-disabled": {
+    "value": "rgb(72, 26, 45)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d967a0bf24cfc8f2727",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-information-subdued": {
+    "value": "rgb(7, 48, 59)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d97f0c7eab5b3efb124",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-information-default": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d97b769c1b5f7d9517c",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-success-default": {
+    "value": "rgb(0, 109, 91)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d972aa2eab71df89ae8",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-border-success-subdued": {
+    "value": "rgb(3, 58, 52)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d977079ac4cf5d269c5",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-interactive-error": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d97bcdf6bb632226ca5",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-interactive-error-hovered": {
+    "value": "rgb(240, 79, 136)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d979e2a97b743e7caeb",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-interactive-error-depressed": {
+    "value": "rgb(247, 97, 144)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d97742db09939fb3752",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-interactive-error-disabled": {
+    "value": "rgb(100, 29, 59)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d977079ac4cf5d269c8",
+        "type": "Color"
+      }
+    }
+  },
+  "dark-focused-default": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341d97d47d95b6ca20509e",
+        "type": "Color"
+      }
+    }
+  },
+  "neutral-30": {
+    "value": "rgb(241, 243, 245)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b806a1574b5a8da7c8c",
+        "type": "Color"
+      }
+    }
+  },
+  "text-default": {
+    "value": "rgb(32, 34, 35)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b800f826b98f5abc6dd",
+        "type": "Color"
+      }
+    }
+  },
+  "neutral-120": {
+    "value": "rgb(26, 21, 35)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b809ddb264e59323440",
+        "type": "Color"
+      }
+    }
+  },
+  "primary-90": {
+    "value": "rgb(142, 78, 198)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b809cdefeb55e36e41c",
+        "type": "Color"
+      }
+    }
+  },
+  "secondary-90": {
+    "value": "rgb(245, 217, 10)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b803fc617b6beee864a",
+        "type": "Color"
+      }
+    }
+  },
+  "information-90": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b80e691f3b54c9ce2ac",
+        "type": "Color"
+      }
+    }
+  },
+  "warning-90": {
+    "value": "rgb(255, 178, 36)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b802aa2eab71df886a1",
+        "type": "Color"
+      }
+    }
+  },
+  "error-90": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b80e944574d7df1bbe4",
+        "type": "Color"
+      }
+    }
+  },
+  "success-90": {
+    "value": "rgb(112, 225, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b80a1d8449bc9114712",
+        "type": "Color"
+      }
+    }
+  },
+  "error-60": {
+    "value": "rgb(244, 198, 219)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b8013fc26985469e58a",
+        "type": "Color"
+      }
+    }
+  },
+  "neutral-70": {
+    "value": "rgb(220, 219, 221)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b80a27093b6488a01bd",
+        "type": "Color"
+      }
+    }
+  },
+  "error-70": {
+    "value": "rgb(237, 173, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b807c717d4c9841c64c",
+        "type": "Color"
+      }
+    }
+  },
+  "secondary-70": {
+    "value": "rgb(239, 211, 108)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63341b805d8cfeb5999f837a",
+        "type": "Color"
+      }
+    }
+  }
+}

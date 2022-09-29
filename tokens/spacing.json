@@ -1,0 +1,230 @@
+{
+  "spacing-small-sm": {
+    "value": 4,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335755da1d8449bc91c0d87",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-small-md": {
+    "value": 8,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c1b4c7fd14d285569f0",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-small-lg": {
+    "value": 12,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c2c9f7b9698dbd19ca1",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-small-xl": {
+    "value": 16,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c3205783698886b99e3",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-medium-sm": {
+    "value": 24,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c35aced92b683af5518",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-medium-md": {
+    "value": 32,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c6b36527f4da113a04c",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-medium-lg": {
+    "value": 40,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c7afe1bbc9842485b9e",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-medium-xl": {
+    "value": 48,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c8a5f46c09988a9ffae",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-large-sm": {
+    "value": 64,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357c9affa7a04f85b237e6",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-large-md": {
+    "value": 80,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357ca4cb52184ca31edaa2",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-large-lg": {
+    "value": 96,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357caee6ba3e9a4d7f84d1",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  },
+  "spacing-large-xl": {
+    "value": 160,
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63357cb7b769c1b5f7e3f1fd",
+        "type": "SpacingToken"
+      },
+      "spacing_section": {
+        "id": "63316c25cd5d3b13f58b10c9"
+      }
+    }
+  }
+}

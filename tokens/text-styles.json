@@ -1,0 +1,362 @@
+{
+  "text-body": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 16,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 18.700000762939453
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08c5b69904f1e96bf07",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-caption": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 14,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08cbcc3abb68f673a98",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-overline": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 12,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08cb769c1b5f7e5647b",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-button": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 16,
+        "weight": 500,
+        "stretch": 1
+      },
+      "line_height": 18.700000762939453
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08ccf252899d67a446f",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-display-xl": {
+    "value": {
+      "font": {
+        "family": "Steinbeck",
+        "size": 76,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08cbbe9834c8d1438bf",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-display-xxl": {
+    "value": {
+      "font": {
+        "family": "Steinbeck",
+        "size": 96,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 80
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08ca245be98a24c55f7",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-display-lg": {
+    "value": {
+      "font": {
+        "family": "Steinbeck",
+        "size": 64,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08cbfb47498b84f698d",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-display-md": {
+    "value": {
+      "font": {
+        "family": "Steinbeck",
+        "size": 56,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08c4c7fd14d2856c6bb",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-display-sm": {
+    "value": {
+      "font": {
+        "family": "Steinbeck",
+        "size": 48,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08c82e8d64e9e05f6b4",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-headline-xxl": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 40,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08ca2c426b5360a9588",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-headline-xl": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 36,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08cdf763d9a366b7d42",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-headline-md": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 26,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08c5f46c09988ab53b3",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-headline-sm": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 22,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08cf5e43ab5ecd5f13f",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-headline-xs": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 18,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08c7c717d4c984ec778",
+        "type": "TextStyle"
+      }
+    }
+  },
+  "text-headline-lg": {
+    "value": {
+      "font": {
+        "family": "Karla",
+        "size": 32,
+        "weight": 400,
+        "stretch": 1
+      },
+      "line_height": 44
+    },
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "6335a08d18cd0cb5c6042247",
+        "type": "TextStyle"
+      }
+    }
+  }
+}
