@@ -1,6 +1,6 @@
 /**
 * Do not edit directly
-* Generated on Thu, 29 Sep 2022 14:08:25 GMT
+* Generated on Thu, 29 Sep 2022 16:16:51 GMT
 */
 
 // Color Tokens
@@ -223,3 +223,82 @@ large: {
  Xl: "160px",
  }
 };
+
+/* Text Style Tokens */
+export const font = {
+ Body: { 
+  font: "Karla", 
+  weight: 400,
+  size: 16
+ },
+ Caption: { 
+  font: "Karla", 
+  weight: 400,
+  size: 14
+ },
+ Overline: { 
+  font: "Karla", 
+  weight: 400,
+  size: 12
+ },
+ Button: { 
+  font: "Karla", 
+  weight: 500,
+  size: 16
+ },
+ DisplayXl: { 
+  font: "Steinbeck", 
+  weight: 400,
+  size: 76
+ },
+ DisplayXxl: { 
+  font: "Steinbeck", 
+  weight: 400,
+  size: 96
+ },
+ DisplayLg: { 
+  font: "Steinbeck", 
+  weight: 400,
+  size: 64
+ },
+ DisplayMd: { 
+  font: "Steinbeck", 
+  weight: 400,
+  size: 56
+ },
+ DisplaySm: { 
+  font: "Steinbeck", 
+  weight: 400,
+  size: 48
+ },
+ HeadlineXxl: { 
+  font: "Karla", 
+  weight: 400,
+  size: 40
+ },
+ HeadlineXl: { 
+  font: "Karla", 
+  weight: 400,
+  size: 36
+ },
+ HeadlineMd: { 
+  font: "Karla", 
+  weight: 400,
+  size: 26
+ },
+ HeadlineSm: { 
+  font: "Karla", 
+  weight: 400,
+  size: 22
+ },
+ HeadlineXs: { 
+  font: "Karla", 
+  weight: 400,
+  size: 18
+ },
+ HeadlineLg: { 
+  font: "Karla", 
+  weight: 400,
+  size: 32
+ },
+ },

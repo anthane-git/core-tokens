@@ -1,6 +1,6 @@
 /**
 * Do not edit directly
-* Generated on Thu, 29 Sep 2022 14:08:25 GMT
+* Generated on Thu, 29 Sep 2022 16:16:51 GMT
 */
 
 /* Color Tokens */
@@ -223,47 +223,77 @@
 /* Text Style Tokens */
  
 .core-text-body {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
 }  
 .core-text-caption {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
 }  
 .core-text-overline {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
 }  
 .core-text-button {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
 }  
 .core-text-display-xl {
-  font-family: "Steinbeck";
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 76px;
 }  
 .core-text-display-xxl {
-  font-family: "Steinbeck";
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 96px;
 }  
 .core-text-display-lg {
-  font-family: "Steinbeck";
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 64px;
 }  
 .core-text-display-md {
-  font-family: "Steinbeck";
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 56px;
 }  
 .core-text-display-sm {
-  font-family: "Steinbeck";
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
 }  
 .core-text-headline-xxl {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 40px;
 }  
 .core-text-headline-xl {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
 }  
 .core-text-headline-md {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 26px;
 }  
 .core-text-headline-sm {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
 }  
 .core-text-headline-xs {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
 }  
 .core-text-headline-lg {
-  font-family: "Karla";
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
 }  

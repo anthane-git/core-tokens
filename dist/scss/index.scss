@@ -1,6 +1,6 @@
 /**
 * Do not edit directly
-* Generated on Thu, 29 Sep 2022 14:08:25 GMT
+* Generated on Thu, 29 Sep 2022 16:16:51 GMT
 */
 
 /* Color Tokens */
@@ -215,3 +215,82 @@
  $core-spacing-large-md: "80px";
  $core-spacing-large-lg: "96px";
  $core-spacing-large-xl: "160px";
+
+
+/* Text Style Tokens */
+ 
+@mixin core-text-body {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}  
+@mixin core-text-caption {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}  
+@mixin core-text-overline {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+}  
+@mixin core-text-button {
+  font-family: "Karla", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+}  
+@mixin core-text-display-xl {
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 76px;
+}  
+@mixin core-text-display-xxl {
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 96px;
+}  
+@mixin core-text-display-lg {
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 64px;
+}  
+@mixin core-text-display-md {
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 56px;
+}  
+@mixin core-text-display-sm {
+  font-family: "Steinbeck", sans-serif;
+  font-weight: 400;
+  font-size: 48px;
+}  
+@mixin core-text-headline-xxl {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 40px;
+}  
+@mixin core-text-headline-xl {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+}  
+@mixin core-text-headline-md {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 26px;
+}  
+@mixin core-text-headline-sm {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+}  
+@mixin core-text-headline-xs {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+}  
+@mixin core-text-headline-lg {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+}  

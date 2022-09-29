@@ -29,5 +29,7 @@
 /* Text Style Tokens */
 <% _.each(allProperties, (prop) => { if(!prop.value.hasOwnProperty('font')) return %> 
 .<%= prop.name %> {
-  font-family: "<%= prop.value.font?.family %>";
+  font-family: "<%= prop.value.font.family %>", sans-serif;
+  font-weight: <%= prop.value.font.weight %>;
+  font-size: <%= prop.value.font.size %>px;
 } <% }); %> 

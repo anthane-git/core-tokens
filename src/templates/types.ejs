@@ -33,4 +33,13 @@ export const colors: {
      if(!prop.name.includes('spacingLarge')) return %> <%= prop.name.replace('spacingLarge', '') %>: string,
  <% }); %> }
  }
+
+ export const font: {
+<% _.each(allProperties, (prop) => {
+  if(!prop.value.hasOwnProperty('font')) return %> <%= prop.name.replace('text', '') %>: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+<% }); %> }
 }

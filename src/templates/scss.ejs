@@ -22,3 +22,11 @@
 <% _.each(allProperties, (prop) => {
  if(!prop.name.includes('spacing')) return %> $<%= prop.name %>: "<%= prop.value %>px";
 <% }); %>
+
+/* Text Style Tokens */
+<% _.each(allProperties, (prop) => { if(!prop.value.hasOwnProperty('font')) return %> 
+@mixin <%= prop.name %> {
+  font-family: "<%= prop.value.font.family %>", sans-serif;
+  font-weight: <%= prop.value.font.weight %>;
+  font-size: <%= prop.value.font.size %>px;
+} <% }); %> 

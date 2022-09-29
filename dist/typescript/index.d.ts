@@ -1,6 +1,6 @@
 /**
 * Do not edit directly
-* Generated on Thu, 29 Sep 2022 14:08:25 GMT
+* Generated on Thu, 29 Sep 2022 16:16:51 GMT
 */
 
 declare module '@anthane/core-tokens' {
@@ -222,5 +222,83 @@ export const colors: {
   Lg: string,
   Xl: string,
   }
+ }
+
+ export const font: {
+ Body: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ Caption: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ Overline: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ Button: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ DisplayXl: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ DisplayXxl: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ DisplayLg: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ DisplayMd: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ DisplaySm: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ HeadlineXxl: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ HeadlineXl: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ HeadlineMd: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ HeadlineSm: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ HeadlineXs: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
+ HeadlineLg: { 
+   font: string, 
+   weight: number,
+   size: number
+  },
  }
 }

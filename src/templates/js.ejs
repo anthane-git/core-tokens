@@ -33,3 +33,13 @@ large: {
    if(!prop.name.includes('spacingLarge')) return %> <%= prop.name.replace('spacingLarge', '') %>: "<%= prop.value %>px",
 <% }); %> }
 };
+
+/* Text Style Tokens */
+export const font = {
+<% _.each(allProperties, (prop) => {
+ if(!prop.value.hasOwnProperty('font')) return %> <%= prop.name.replace('text', '') %>: { 
+  font: "<%= prop.value.font.family %>", 
+  weight: <%= prop.value.font.weight %>,
+  size: <%= prop.value.font.size %>
+ },
+<% }); %> },
