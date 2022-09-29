@@ -3,7 +3,7 @@ const _ = require('lodash');
 const StyleDictionary = require('style-dictionary').extend('./config.json');
 
 const typingsES6Template = _.template(
-	fs.readFileSync(`${__dirname}/templates/es6.template`)
+	fs.readFileSync(`${__dirname}/templates/types.template`)
 );
 
 const scssTemplate = _.template(
@@ -14,8 +14,12 @@ const cssTemplate = _.template(
 	fs.readFileSync(`${__dirname}/templates/css.template`)
 );
 
+const jsTemplate = _.template(
+	fs.readFileSync(`${__dirname}/templates/js.template`)
+);
+
 StyleDictionary.registerFormat({
-	name: 'typings/es6',
+	name: 'typings/types',
 	formatter: typingsES6Template,
 });
 
@@ -27,6 +31,11 @@ StyleDictionary.registerFormat({
 StyleDictionary.registerFormat({
 	name: 'schema/css',
 	formatter: cssTemplate,
+});
+
+StyleDictionary.registerFormat({
+	name: 'schema/js',
+	formatter: jsTemplate,
 });
 
 StyleDictionary.buildAllPlatforms();

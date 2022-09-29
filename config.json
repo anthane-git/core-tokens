@@ -33,7 +33,7 @@
 			"files": [
 				{
 					"destination": "index.js",
-					"format": "javascript/es6"
+					"format": "schema/js"
 				}
 			]
 		},
@@ -44,7 +44,7 @@
 			"files": [
 				{
 					"destination": "index.d.ts",
-					"format": "typings/es6"
+					"format": "typings/types"
 				}
 			]
 		},
