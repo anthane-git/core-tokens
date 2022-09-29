@@ -7,39 +7,39 @@ declare module '@anthane/core-tokens' {
 
 export const colors: {
  light: {
- <% _.each(allProperties, (prop) => {
-     if(!prop.name.includes('light')) return %> <%= prop.name.replace('light', '') %>: string,
- <% }); %> }
+<% _.each(allProperties, (prop) => {
+   if(!prop.name.includes('light')) return %> <%= prop.name.replace('light', '') %>: string,
+<% }); %> }
+
+ dark: {
+<% _.each(allProperties, (prop) => {
+   if(!prop.name.includes('dark')) return %> <%= prop.name.replace('dark', '') %>: string,
+<% }); %> }
  }
 
- export const dark: {
- <% _.each(allProperties, (prop) => {
-    if(!prop.name.includes('dark')) return %> <%= prop.name.replace('dark', '') %>: string,
- <% }); %> }
-
  export const spacing: {
- small: {
- <% _.each(allProperties, (prop) => {
-     if(!prop.name.includes('spacingSmall')) return %> <%= prop.name.replace('spacingSmall', '') %>: string,
- <% }); %> },
+  small: {
+   <% _.each(allProperties, (prop) => {
+    if(!prop.name.includes('spacingSmall')) return %> <%= prop.name.replace('spacingSmall', '') %>: string,
+   <% }); %> },
 
- medium: {
- <% _.each(allProperties, (prop) => {
-     if(!prop.name.includes('spacingMedium')) return %> <%= prop.name.replace('spacingMedium', '') %>: string,
- <% }); %> },
+  medium: {
+   <% _.each(allProperties, (prop) => {
+    if(!prop.name.includes('spacingMedium')) return %> <%= prop.name.replace('spacingMedium', '') %>: string,
+   <% }); %> },
 
  large: {
- <% _.each(allProperties, (prop) => {
-     if(!prop.name.includes('spacingLarge')) return %> <%= prop.name.replace('spacingLarge', '') %>: string,
- <% }); %> }
+   <% _.each(allProperties, (prop) => {
+    if(!prop.name.includes('spacingLarge')) return %> <%= prop.name.replace('spacingLarge', '') %>: string,
+   <% }); %> }
  }
 
  export const font: {
-<% _.each(allProperties, (prop) => {
+  <% _.each(allProperties, (prop) => {
   if(!prop.value.hasOwnProperty('font')) return %> <%= prop.name.replace('text', '') %>: { 
-   font: string, 
-   weight: number,
-   size: number
+    font: string, 
+    weight: number,
+    size: number
   },
 <% }); %> }
 }
