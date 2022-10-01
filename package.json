@@ -1,6 +1,6 @@
 {
 	"name": "@anthane/core-tokens",
-	"version": "1.1.8",
+	"version": "1.1.9",
 	"description": "Visual design atoms of the core design system",
 	"publishConfig": {
 		"access": "public",
@@ -29,8 +29,9 @@
 		"build": "node ./src/build.js"
 	},
 	"devDependencies": {
-		"rimraf": "^3.0.2",
+		"@anthane/core-tokens": "^1.1.8",
 		"loadash": "^1.0.0",
+		"rimraf": "^3.0.2",
 		"style-dictionary": "^3.7.1"
 	}
 }
