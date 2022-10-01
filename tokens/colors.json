@@ -976,7 +976,7 @@
     }
   },
   "light-action-secondary-default": {
-    "value": "rgb(249, 248, 249)",
+    "value": "rgb(22, 22, 24)",
     "metadata": {
       "source": {
         "project": {
@@ -992,7 +992,7 @@
     }
   },
   "light-action-secondary-hovered": {
-    "value": "rgb(241, 243, 245)",
+    "value": "rgb(35, 35, 38)",
     "metadata": {
       "source": {
         "project": {
@@ -1008,7 +1008,7 @@
     }
   },
   "light-action-secondary-pressed": {
-    "value": "rgb(230, 232, 235)",
+    "value": "rgb(28, 28, 31)",
     "metadata": {
       "source": {
         "project": {
@@ -1024,7 +1024,7 @@
     }
   },
   "light-action-secondary-depressed": {
-    "value": "rgb(134, 132, 141)",
+    "value": "rgb(112, 111, 120)",
     "metadata": {
       "source": {
         "project": {
@@ -1040,7 +1040,7 @@
     }
   },
   "light-action-secondary-disabled": {
-    "value": "rgb(253, 252, 253)",
+    "value": "rgb(54, 55, 57)",
     "metadata": {
       "source": {
         "project": {
@@ -3211,6 +3211,230 @@
       },
       "resource": {
         "id": "63341b805d8cfeb5999f837a",
+        "type": "Color"
+      }
+    }
+  },
+  "neutral-dark-30": {
+    "value": "rgb(35, 35, 38)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff4f08c9b4403300c1e",
+        "type": "Color"
+      }
+    }
+  },
+  "information-dark-90": {
+    "value": "rgb(5, 162, 194)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff463164662d1155218",
+        "type": "Color"
+      }
+    }
+  },
+  "primary-dark-90": {
+    "value": "rgb(142, 78, 198)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff4929ec2623198f960",
+        "type": "Color"
+      }
+    }
+  },
+  "neutral-dark-120": {
+    "value": "rgb(237, 237, 239)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff40f054fb86cee112d",
+        "type": "Color"
+      }
+    }
+  },
+  "secondary-dark-90": {
+    "value": "rgb(245, 217, 10)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff5861c0764ad1a968a",
+        "type": "Color"
+      }
+    }
+  },
+  "error-dark-90": {
+    "value": "rgb(233, 61, 130)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff5681cb443f74cb16d",
+        "type": "Color"
+      }
+    }
+  },
+  "information-dark-40": {
+    "value": "rgb(7, 48, 59)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff55044146275786b5a",
+        "type": "Color"
+      }
+    }
+  },
+  "warning-dark-90": {
+    "value": "rgb(255, 178, 36)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff592e0aa44be5958dc",
+        "type": "Color"
+      }
+    }
+  },
+  "information-dark-100": {
+    "value": "rgb(0, 177, 204)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff529d4dbb7b28a1534",
+        "type": "Color"
+      }
+    }
+  },
+  "success-dark-90": {
+    "value": "rgb(112, 225, 200)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff5968340bb1fc8f43d",
+        "type": "Color"
+      }
+    }
+  },
+  "information-dark-110": {
+    "value": "rgb(0, 194, 215)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff50ab2ee64b98e3603",
+        "type": "Color"
+      }
+    }
+  },
+  "error-dark-100": {
+    "value": "rgb(240, 79, 136)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff5b448c7b84b6999fd",
+        "type": "Color"
+      }
+    }
+  },
+  "error-dark-110": {
+    "value": "rgb(247, 97, 144)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff57d7a7b452f608e58",
+        "type": "Color"
+      }
+    }
+  },
+  "error-dark-120": {
+    "value": "rgb(254, 236, 244)",
+    "metadata": {
+      "source": {
+        "project": {
+          "id": "63316c25cd5d3b13f58b10c6",
+          "name": "Core Elements",
+          "platform": "web"
+        }
+      },
+      "resource": {
+        "id": "63378ff57d0faa63d92e854f",
         "type": "Color"
       }
     }
