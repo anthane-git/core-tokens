@@ -1392,7 +1392,7 @@
     }
   },
   "light-interactive-default": {
-    "value": "rgb(5, 162, 194)",
+    "value": "rgb(190, 147, 228)",
     "metadata": {
       "source": {
         "project": {
@@ -1408,7 +1408,7 @@
     }
   },
   "light-interactive-hovered": {
-    "value": "rgb(8, 148, 179)",
+    "value": "rgb(142, 78, 198)",
     "metadata": {
       "source": {
         "project": {
@@ -1424,7 +1424,7 @@
     }
   },
   "light-interactive-depressed": {
-    "value": "rgb(12, 119, 146)",
+    "value": "rgb(121, 58, 175)",
     "metadata": {
       "source": {
         "project": {
@@ -1440,7 +1440,7 @@
     }
   },
   "light-interactive-disabled": {
-    "value": "rgb(216, 243, 246)",
+    "value": "rgb(236, 238, 240)",
     "metadata": {
       "source": {
         "project": {
