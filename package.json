@@ -26,8 +26,7 @@
 		"prepublishOnly": "npm run build",
 		"test": "node ./tests/index.test.js",
 		"prebuild": "./node_modules/rimraf/bin.js dist",
-		"build": "node ./src/build.js",
-		"postbuild": "rsync -a fonts dist"
+		"build": "node ./src/build.js"
 	},
 	"devDependencies": {
 		"@anthane/core-tokens": "^1.1.8",
