@@ -1,6 +1,6 @@
 {
 	"name": "@anthane/core-tokens",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "Visual design atoms of the core design system",
 	"publishConfig": {
 		"access": "public",
@@ -20,13 +20,15 @@
 			"import": "./dist/javascript/index.js"
 		},
 		"./css/*": "./dist/css/*",
-		"./scss/*": "./dist/scss/*"
+		"./scss/*": "./dist/scss/*",
+		"./fonts/*": "./dist/fonts/*"
 	},
 	"scripts": {
 		"prepublishOnly": "npm run build",
 		"test": "node ./tests/index.test.js",
 		"prebuild": "./node_modules/rimraf/bin.js dist",
-		"build": "node ./src/build.js"
+		"build": "node ./src/build.js",
+		"postbuild": "rsync -a fonts dist"
 	},
 	"devDependencies": {
 		"@anthane/core-tokens": "^1.1.8",
