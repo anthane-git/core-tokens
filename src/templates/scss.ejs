@@ -19,9 +19,10 @@
 }
 
 /* Spacing Tokens */
+:root {
 <% _.each(allProperties, (prop) => {
- if(!prop.name.includes('spacing')) return %> $<%= prop.name %>: "<%= prop.value %>px";
-<% }); %>
+  if(!prop.name.includes('spacing')) return %> --<%= prop.name %>: <%= prop.value %>px;
+<% }); %> }
 
 /* Text Style Tokens */
 <% _.each(allProperties, (prop) => { if(!prop.value.hasOwnProperty('font')) return %> 
