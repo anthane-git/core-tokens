@@ -37,6 +37,6 @@ Importing all of the css variables. CSS variables are prefixed with `--core` to 
 @use '@anthane/core-tokens/scss/index' as *;
 
 div {
-	background: var(--core-color-background);
+background: var(--core-color-background);
 }
 ```
