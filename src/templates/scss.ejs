@@ -4,6 +4,11 @@
 */
 
 /* Color Tokens */
+:root {
+<% _.each(allProperties, (prop) => {
+  if(!prop.name.includes('light')) return %> --<%= prop.name.replace('light', 'color') %>:<%= prop.value %>;
+<% }); %> }
+
 @media (prefers-color-scheme: light) {
 :root {
 <% _.each(allProperties, (prop) => {
